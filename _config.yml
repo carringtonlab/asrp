@@ -3,7 +3,7 @@ title: Arabidopsis Small RNA Project
 description: > # this means to ignore newlines until "baseurl:"
   The purpose of the Arabidopsis Small RNA Project (ASRP) website is to provide access to data and resources
   from the Carrington laboratory.
-baseurl: "http://asrp.danforthcenter.org" # site url
+baseurl: "https://asrp.danforthcenter.org" # site url
 
 # Build settings
 markdown: kramdown
